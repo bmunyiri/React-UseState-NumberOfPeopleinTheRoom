@@ -1,5 +1,5 @@
 .App {
-  font-family: sans-serif;
+  font-family: Helvetica;
   text-align: center;
 }
 .btn {
@@ -7,5 +7,5 @@
   flex-wrap: wrap;
   height: 100px;
   align-content: space-between;
-  justify-content: center
+  justify-content: center;
 }
